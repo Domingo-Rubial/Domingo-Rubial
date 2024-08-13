@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Domingo-Rubial
-- 👀 I’m interested in develop the course of CS50's Introduction to Programming with Scratch.
-- 🌱 I’m currently learning to programming with Scratch.
-- 💞️ I’m looking to collaborate on programming with Scratch.
-- 📫 How to reach me for my email drubialg@gmail.com.
+
